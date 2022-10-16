@@ -196,13 +196,13 @@ int main(void)
 
 
 ## Proteus simulation 
-
-
-
+### DISPLAY OFF
+![disff](https://user-images.githubusercontent.com/93427376/196025543-e4e97270-efd1-40cf-aa92-211a060e6a58.jpeg)
+### DISPLAY ON
+![discn](https://user-images.githubusercontent.com/93427376/196025639-f00733db-714a-4c71-a3c5-60e290f94bf8.jpeg)
 
 ##  layout Diagram 
-
-
+![ttd](https://user-images.githubusercontent.com/93427376/196025663-a07b0918-fcb4-4c7f-892d-f50bfbb10905.jpeg)
 
 ## Result :
 
