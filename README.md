@@ -121,7 +121,8 @@ Figure -12 Hex file for simulation
 Step 9: Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
 
 
-## Kiel - Program  
+## Kiel - Program 
+```
 #include<lpc214x.h>
 #include<stdint.h>
 #include<stdio.h>
@@ -190,7 +191,7 @@ int main(void)
 		LCD_STRING("212221240002");
 		return 0;
 }
-
+```
 
 
 
